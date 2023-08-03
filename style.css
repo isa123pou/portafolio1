@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+}
+
+h1
+{
+    font-size: 40px;
+    font-family:monospace;
+    font-weight: 300;
+}
+#app
+{
+    background-color: aquamarine;
+}
+
+.line
+{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
